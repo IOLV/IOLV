@@ -4,7 +4,7 @@
 
 <h2>&lt; About Me /&gt;</h2>
 <p>Hi! I'm Aidan! I'm a junior software developer looking to make an impact in the world. Recently, I completed an intensive 16-week bootcamp where I honed the skills and mindset of a full-stack developer. I've worked on diverse team projects and participated in weekly hackathons, challenging myself to think differently and grow.</p>
-<p>I'm currently learning Python, getting an understanding of ETL/ELT processes and furthering my experience of PostgreSQL, while also developing my own personal projects in NextJS, Typescript.</p>
+<p>I'm currently learning Python, getting an understanding of MongoDB & ETL/ELT processes and furthering my experience of PostgreSQL, while also developing my own personal projects in NextJS, Typescript.</p>
 <br />
 <div style="text-align: center; text-decoration: none;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Nothing else was working :( ... --> 
   <a href="https://aidanisbell.com/">

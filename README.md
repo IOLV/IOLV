@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align: center;">
+<div style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Nothing else was working :( ... --> 
   <a href="https://aidanisbell.com/">
     <img src="https://github.com/user-attachments/assets/ee42a441-9039-45a2-bf6b-b53ac010350f" alt="GitHub Portfolio" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aidan-isbell-54116420a/">
     <img src="https://github.com/user-attachments/assets/099132bc-9117-4cc6-9ba8-bda59322f581" alt="GitHub LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:githubcontact@aidanisbell.com">
     <img src="https://github.com/user-attachments/assets/a465ab93-a581-4987-94ed-45e335dc14c5" alt="GitHub Email" />
   </a>

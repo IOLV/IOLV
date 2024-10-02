@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/user-attachments/assets/1a0dacf7-d8a5-4e53-9d7d-e0aecc0a4811" alt="Working with Aidan Isbell"/></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/d74fb7fb-2387-4a90-bc38-cc97e0807862" alt="Working with Aidan Isbell"/></div>
 
 <h1 align="center"><code>&lt; Hi. I'm Aidan! /&gt;</code></h1>
 

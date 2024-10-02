@@ -27,20 +27,25 @@
 <br />
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=IOLV&border_radius=8&border=242732&background=0B0C13&currStreakLabel=FFFFFF&stroke=0091E1&ring=0091E1&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=0091E1&sideLabels=FFFFFF&dates=85888D&excludeDaysLabel=85888D" />
+</div>
+
+
+<br />
+<div align="center">
+  <img width=56% align="left" src=https://github-readme-stats.vercel.app/api?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
+  <img width=42.5%  align="right" src=https://github-readme-stats.vercel.app/api/top-langs?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div align="center">
   <img src=https://github-readme-activity-graph.vercel.app/graph?username=IOLV&theme=react-dark&hide_title=true&line=0091e1&area=true&area_color=0091e1&color=85888d&bg_color=0b0c13&radius=16 />
 </div>
-<!--
-**IOLV/IOLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

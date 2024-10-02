@@ -34,11 +34,11 @@
 <br />
 <div>
   <span>
-    <img height="155" align="center" src=https://github-readme-stats.vercel.app/api?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
+    <img height="150" align="center" src=https://github-readme-stats.vercel.app/api?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
   </span>
   <span>&nbsp;&nbsp;&nbsp;</span>
   <span>
-    <img height="155" align="center" src=https://github-readme-stats.vercel.app/api/top-langs?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
+    <img height="150" align="center" src=https://github-readme-stats.vercel.app/api/top-langs?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
   </span>
 </div>
 

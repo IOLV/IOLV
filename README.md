@@ -24,6 +24,11 @@
   <img src="https://github.com/user-attachments/assets/ce07722a-1074-440a-b7e5-f2f9efd0df36" alt="GitHub Tech Stack" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src=https://github-readme-activity-graph.vercel.app/graph?username=IOLV&theme=react-dark&hide_title=true&line=0091e1&area=true&area_color=0091e1&color=85888d&bg_color=0b0c13&radius=16 />
+</div>
 <!--
 **IOLV/IOLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -36,11 +36,11 @@
 <br />
 <div align="center">
   <span align="center">
-    <img height="200" align="center" src=https://github-readme-stats-puce-nine-78.vercel.app//api?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
+    <img height="225" align="center" src=https://github-readme-stats-puce-nine-78.vercel.app//api?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
   </span>
   <span>&nbsp;&nbsp;&nbsp;</span>
   <span align="center">
-    <img height="200" align="center" src=https://github-readme-stats-puce-nine-78.vercel.app//api/top-langs?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
+    <img height="225" align="center" src=https://github-readme-stats-puce-nine-78.vercel.app//api/top-langs?username=IOLV&theme=react&show_icons=true&bg_color=0b0c13&border_radius=8&icon_color=85888d&title_color=0091e1&border_color=242732 />
   </span>
 </div>
 

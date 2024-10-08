@@ -54,7 +54,7 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IOLV&border_radius=8&border=242732&background=0B0C13&currStreakLabel=FFFFFF&stroke=0091E1&ring=0091E1&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=0091E1&sideLabels=FFFFFF&dates=85888D&excludeDaysLabel=85888D" />
+  <img src="https://github-readme-streak-stats-n1lqy5bln-iolvs-projects.vercel.app/?user=IOLV&border_radius=8&border=242732&background=0B0C13&currStreakLabel=FFFFFF&stroke=0091E1&ring=0091E1&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=0091E1&sideLabels=FFFFFF&dates=85888D&excludeDaysLabel=85888D" />
 </div>
 
 

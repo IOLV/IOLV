@@ -11,7 +11,7 @@
     <img src="https://github.com/user-attachments/assets/5a00bf2f-1007-4494-af3a-44ed6950be7e" alt="GitHub Portfolio"  text-decoration="none"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.linkedin.com/in/aidan-isbell-54116420a/" text-decoration="none"> 
+  <a href="https://www.linkedin.com/in/aidanisbell/" text-decoration="none"> 
     <img src="https://github.com/user-attachments/assets/a7540f4a-5d17-415e-93ac-74b9eccba2b8" alt="GitHub LinkedIn"  text-decoration="none"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
